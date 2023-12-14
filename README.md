@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Patryk
-#### I am a Frontend 🌐 and Flutter Developer 📱
-![I am a Frontend 🌐 and Flutter Developer 📱](https://miro.medium.com/v2/resize:fit:1400/1*R-twmFW5KUTgZsOGlcYoWQ.png)
+#### I am a Frontend with React 🌐 and Flutter Developer 📱
+![I am a Frontend with React 🌐 and Flutter Developer 📱](https://miro.medium.com/v2/resize:fit:1400/1*R-twmFW5KUTgZsOGlcYoWQ.png)
 
 I'm a passionate Frontend Developer specializing in React and a  Flutter Developer. With a keen eye for design and user experience, I craft engaging and responsive interfaces. My journey in web development has been driven by a love for creating seamless and dynamic websites and mobile apps. In the realm of mobile development, I leverage Flutter to build cross-platform applications that are both aesthetically pleasing and functionally robust. I'm always excited about new challenges and opportunities to innovate in the tech world, continuously learning to stay ahead of the curve.
 
