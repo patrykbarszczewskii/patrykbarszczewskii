@@ -6,7 +6,7 @@ I'm a passionate Frontend Developer specializing in React and a  Flutter Develop
 
 Skills:  / REACT / JS / HTML / CSS / FLUTTER / DART
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show&theme=dark_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
