@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*R-twmFW5KUTgZsOGlcYoWQ.png)
+![MasterHead](https://imgur.com/ug78BJ2)
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate flutter developer and react.js from Poland ❤️</h3>
 <img align="right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
