@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **PhotograpyApp**
 
-- 🌱 I’m currently learning **Theory and REST API**
-
-- 💬 Ask me about **everything**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **patryk.barszczewskii@gmail.com**
 
-- ⚡ Fun fact **I love spiders 🕷️**
+- ⚡ Fun fact **I love spiders and I'm raising several of them 🕷️**
 
 
 <h3 align="left">Connect with me:</h3>
